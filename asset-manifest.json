@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "./static/css/main.228f7895.css",
-    "main.js": "./static/js/main.cee0390b.js",
+    "main.css": "./static/css/main.e1f60bd9.css",
+    "main.js": "./static/js/main.66c22094.js",
+    "static/media/rodrigo.png": "./static/media/rodrigo.e88053e885d5b2ad3b5b.png",
+    "static/media/marcelo.png": "./static/media/marcelo.caa95f25ec801541568b.png",
     "static/media/funilariaimg.jpg": "./static/media/funilariaimg.1c49b78bc48b4517eb0d.jpg",
     "static/media/autoserv4.jpg": "./static/media/autoserv4.3277987a99d56582d0db.jpg",
     "static/media/autoserv3.jpg": "./static/media/autoserv3.5addf7cc9db2615f5920.jpg",
@@ -11,6 +13,7 @@
     "static/media/polimg.jpg": "./static/media/polimg.c50c79506caa8db2540a.jpg",
     "static/media/autoserv2.jpg": "./static/media/autoserv2.c7734e49b26f512431d7.jpg",
     "static/media/logo.png": "./static/media/logo.9e7239ee6a714d02b5f0.png",
+    "static/media/3052.png": "./static/media/3052.9622daee23f2f1d1f41e.png",
     "static/media/autoserv12.jpg": "./static/media/autoserv12.631540a5b23adc5398d9.jpg",
     "static/media/higenizacaoimg.jpg": "./static/media/higenizacaoimg.2bfb8deeae6be67dd32e.jpg",
     "static/media/autoserv21.jpg": "./static/media/autoserv21.ff11ac487bc67b0f9c6e.jpg",
@@ -20,11 +23,11 @@
     "static/media/autoserv31.jpg": "./static/media/autoserv31.ce12ad4ff609f0942aaf.jpg",
     "static/media/vidroimg.jpg": "./static/media/vidroimg.a32334bd26431bbc2e75.jpg",
     "index.html": "./index.html",
-    "main.228f7895.css.map": "./static/css/main.228f7895.css.map",
-    "main.cee0390b.js.map": "./static/js/main.cee0390b.js.map"
+    "main.e1f60bd9.css.map": "./static/css/main.e1f60bd9.css.map",
+    "main.66c22094.js.map": "./static/js/main.66c22094.js.map"
   },
   "entrypoints": [
-    "static/css/main.228f7895.css",
-    "static/js/main.cee0390b.js"
+    "static/css/main.e1f60bd9.css",
+    "static/js/main.66c22094.js"
   ]
 }
